@@ -4,5 +4,5 @@ Hello, my name is Ariel and I graduated from Kennesaw State University with a BS
 <br>The projects I have completed have allowed me to gain skills in:
 <br>  -Tableau
 <br>  -Power BI & PowerQuery
-<br>  -SQL (MySQL, SQL Server, SSMS)
+<br>  -MySQL
 <br>  -Excel
